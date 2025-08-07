@@ -1,0 +1,6 @@
+fastapi
+requests
+azure-functions
+mangum
+uvicorn
+python-multipart
